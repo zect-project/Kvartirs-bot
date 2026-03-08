@@ -44,8 +44,8 @@ text---
 
 ## 🚀 Установка и запуск
 
-### 1. Клонирование
 ```bash
+### 1. Клонирование
 git clone https://github.com/zect-project/Kvartis-bot.git
 cd Kvartis-bot
 
